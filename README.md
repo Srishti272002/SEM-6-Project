@@ -1,4 +1,6 @@
-# SEM-5-Project
-Social Media Website Project
-Technology:HTML,JS,CSS,MERN stack
+# SEM-6-Project
+Image Steganography
+
+
+
 
